@@ -25,7 +25,7 @@ var QUESTIONS = [
         answer: true,
     },
     {
-        text: '上り坂より下り坂のほうが多い',
+        text: '上り坂より下り坂のほうが少ない',
         answer: false,
     },
     {
