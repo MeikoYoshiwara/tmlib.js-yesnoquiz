@@ -25,7 +25,7 @@ var QUESTIONS = [
         answer: true,
     },
     {
-        text: '上り坂より下り坂のほうが少ない',
+        text: '上り坂と下り坂は同数である',
         answer: false,
     },
     {
